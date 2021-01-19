@@ -1,1 +1,2 @@
-# STRUCTRING-BEFOR-CODING
+# synchronousBallMovement
+Ball moving synchronously
